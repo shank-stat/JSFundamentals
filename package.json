@@ -1,0 +1,16 @@
+{
+  "name": "jslearn",
+  "version": "1.0.0",
+  "description": "Learning JS & Node.js",
+  "keywords": [
+    "js",
+    "node.js"
+  ],
+  "license": "ISC",
+  "author": "Shankhadeep Banerjee",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
